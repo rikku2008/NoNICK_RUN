@@ -18,7 +18,7 @@
     "useExternalSourceFiles": false,
     "version": "1.2.9",
     "name": "NoNICK RUN",
-    "description": "V1.3.0-beta1\nNoNICKさんのPlatformerです！\nNoNICKさんのYoutube→ https://www.youtube.com/c/nonick-mc\nスマホ対応：でもキーボード推奨\nwad,space,矢印キーで操作\n・壁は登れます！！！\n\n",
+    "description": "V1.3.0\nNoNICKさんのPlatformerです！\nNoNICKさんのYoutube→ https://www.youtube.com/c/nonick-mc\nスマホ対応：でもキーボード推奨\nwad,space,矢印キーで操作\n・壁は登れます！！！",
     "author": "rikku2008",
     "windowWidth": 800,
     "windowHeight": 600,
@@ -77,7 +77,8 @@
     "categories": [
       "platformer",
       "multiplayer",
-      "leaderboard"
+      "leaderboard",
+      "action"
     ],
     "playableDevices": [
       "keyboard",

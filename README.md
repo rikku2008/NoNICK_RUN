@@ -2,7 +2,7 @@
 
 [NoNICK](https://www.youtube.com/c/nonick-mc)さんのファンゲームNoNICK RUNのリポジトリです。
 
-Play(version1.3.0)➡リンク準備中
+Play(version1.3.0)➡ https://liluo.io/rikku_2008/nonick-run
 
 ---
 # version1.3.0
@@ -15,3 +15,4 @@ Play(version1.3.0)➡リンク準備中
 - Javascriptに一部書き換え
 ## 既知の問題
 - 特定の条件で敵が飛んでこない
+- ファイルの構造が汚い（整理中）
